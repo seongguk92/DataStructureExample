@@ -13,8 +13,6 @@ namespace Non_Generice_Dictionary
             dicColor.Add("Green", "초록");
             dicColor.Add("Blue", "파랑");
 
-            
-
             try
             {
                 if (dicColor.ContainsKey("Red"))//RED 들어있는지 체크
