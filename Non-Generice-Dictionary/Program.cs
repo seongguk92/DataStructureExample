@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Non_Generice_Dictionary
+namespace Generic_Dictionary
 {
     class Program
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Non_Generic_List
+namespace Generic_List
 {
     class Program
     {

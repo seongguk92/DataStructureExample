@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
 
-namespace Non_Generic_List
+namespace Generic_List
 {
     public class Part : IEquatable<Part> 
     {
