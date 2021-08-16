@@ -33,7 +33,7 @@ namespace Generic_Stack
                         Console.WriteLine(result);
                         n++;
                     }
-                    Thread.Sleep(500);
+                    Thread.Sleep(150);
                 }
             });
 
