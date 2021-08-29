@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic_Dictionary", "Non-G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic_List", "Non-Generic-List\Generic_List.csproj", "{4C733EFF-474E-49A4-91F5-C06241DEC211}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Queue", "Non-Generic-Queue\Generic_Queue.csproj", "{81EAE3FD-495F-4052-ADE2-6AE94A01F448}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic_Queue", "Non-Generic-Queue\Generic_Queue.csproj", "{81EAE3FD-495F-4052-ADE2-6AE94A01F448}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Stack", "Generic_Task\Generic_Stack.csproj", "{A642E80E-AF05-4EDD-B822-1CBF8EC120A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic_Stack", "Generic_Task\Generic_Stack.csproj", "{A642E80E-AF05-4EDD-B822-1CBF8EC120A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_LinkedList", "Generic_LinkedList\Generic_LinkedList.csproj", "{897513C4-A661-41A1-AE5C-4EF35C485DFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A642E80E-AF05-4EDD-B822-1CBF8EC120A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A642E80E-AF05-4EDD-B822-1CBF8EC120A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A642E80E-AF05-4EDD-B822-1CBF8EC120A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897513C4-A661-41A1-AE5C-4EF35C485DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897513C4-A661-41A1-AE5C-4EF35C485DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897513C4-A661-41A1-AE5C-4EF35C485DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897513C4-A661-41A1-AE5C-4EF35C485DFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
